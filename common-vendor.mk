@@ -17,17 +17,9 @@
 
 PRODUCT_PACKAGES := \
     librs_jni \
-    VideoEditor \
-    VoiceDialer \
     Basic \
-    HoloSpiralWallpaper \
-    MagicSmokeWallpapers \
     NoiseField \
     Galaxy4 \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    VisualizationWallpapers \
-    PhaseBeam \
 
 # Publish that we support the live wallpaper feature.
 PRODUCT_COPY_FILES := \
